@@ -64,8 +64,6 @@ Exemplo:
 
 É necessário você desenvolver a ferramenta através das tarefas definidas por você (sem restrições de tecnologias, uma sugestão é criar branches e commits relacionados).
 
-Para subir a aplicação (sem CI/CD) utilize a documentação oficial Cloud Foundry do IBM Cloud https://cloud.ibm.com/docs/cloud-foundry-public?topic=cloud-foundry-public-deployingapps
-
-É necessário você subir aplicação no IBM Cloud e disponibilizar um link público (não se esqueçam de mostrar seu conhecimento com devops por exemplo utilizando CD e CI. Sugestão: [Tutorial de integração Bluemix CloudFoundry com Travis](https://docs.travis-ci.com/user/deployment/bluemixcloudfoundry) 
+É necessário você subir aplicação na Cloud e disponibilizar um link público (não se esqueçam de mostrar seu conhecimento com devops por exemplo utilizando CD e CI. 
 
 É necessário utilizar o Github para versionar (procure realizar pequenos commits durante o desenvolvimento) a aplicação e criar um README.md com descrição da ferramenta e processo de instalação. Disponibilizar repositório para análise.
